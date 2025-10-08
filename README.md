@@ -3,7 +3,7 @@
   <img 
     src="https://user-images.githubusercontent.com/67194519/173735367-b75edb3b-61ec-4323-a10f-5d98e1d7b97a.gif" 
     width="100%" 
-    height="300" 
+    height="200" 
     alt="Animated banner"
   />
 
