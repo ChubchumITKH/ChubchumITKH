@@ -80,46 +80,45 @@
   box-shadow: 0 0 25px rgba(0,255,255,0.15);
 ">
 
-  <!-- 🏆 Trophy -->
-<img src="https://github-profile-trophy.vercel.app/?username=ChubchumITKH&theme=algolia&no-frame=true&margin-w=15&title=Commit,Followers,Stars,Repositories" width="100%" />
+ <!-- 🏆 Trophy -->
+<img src="https://github-profile-trophy.vercel.app/?username=ChubchumITKH&theme=algolia&no-frame=true&margin-w=15&title=Commit,Followers,Stars,Repositories&cache_seconds=60" width="100%" />
 
-
-
-  <!-- 📊 Stats -->
-  <div style="display:flex; flex-wrap:wrap; justify-content:center; gap:20px;">
-    <img 
-      src="https://github-readme-stats.vercel.app/api?username=ChubchumITKH&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10"
-      height="180" 
-      alt="GitHub Stats"
-    />
-    <img 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChubchumITKH&layout=compact&theme=tokyonight&hide_border=true&border_radius=10"
-      height="180" 
-      alt="Top Languages"
-    />
-  </div>
-
-  <!-- 🔥 Streak (Fixed server) -->
+<!-- 📊 Stats -->
+<div style="display:flex; flex-wrap:wrap; justify-content:center; gap:20px;">
   <img 
-    src="https://github-readme-streak-stats-salesp07.vercel.app?user=ChubchumITKH&theme=tokyonight&hide_border=true&fire=00FFFF&ring=00FFFF&currStreakLabel=00FFFF"
-    height="180"
-    alt="GitHub Streak"
+    src="https://github-readme-stats.vercel.app/api?username=ChubchumITKH&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&cache_seconds=60"
+    height="180" 
+    alt="GitHub Stats"
   />
-
-  <!-- 📈 Contribution Graph -->
   <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=ChubchumITKH&theme=github-dark&bg_color=0d1117&color=00FFFF&line=00FFFF&point=FFFFFF&area=true&hide_border=true"
-    width="100%" 
-    alt="Contribution Graph"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChubchumITKH&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&cache_seconds=60"
+    height="180" 
+    alt="Top Languages"
   />
 </div>
+
+<!-- 🔥 Streak -->
+<img 
+  src="https://github-readme-streak-stats.herokuapp.com?user=ChubchumITKH&theme=tokyonight&hide_border=true&fire=00FFFF&ring=00FFFF&currStreakLabel=00FFFF&cache_seconds=60"
+  height="180"
+  alt="GitHub Streak"
+/>
+
+<!-- 📈 Contribution Graph -->
+<img 
+  src="https://github-readme-activity-graph.vercel.app/graph?username=ChubchumITKH&theme=github-dark&bg_color=0d1117&color=00FFFF&line=00FFFF&point=FFFFFF&area=true&hide_border=true&cache_seconds=60"
+  width="100%" 
+  alt="Contribution Graph"
+/>
+
+
 
 ---
 
 <!-- CONNECT -->
-<h2>🌐 Connect With Me</h2>
+<h2 align="left">🌐 Connect With Me</h2>
 
-<p>
+<p align="left">
   <a href="https://twitter.com/bchumkh83716">
     <img src="https://img.shields.io/badge/Twitter-00acee?style=for-the-badge&logo=twitter&logoColor=white&colorA=00e7ff&colorB=0052cc" alt="Twitter"/>
   </a>
@@ -137,8 +136,8 @@
 ---
 
 <!-- SNAKE -->
-<h2>🐍 Contribution Animation</h2>
-<p align="center">
+<h2 align="left">🐍 Contribution Animation</h2>
+<p>
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
 </p>
 
@@ -148,3 +147,5 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00E7FF&center=true&vCenter=true&width=550&lines=Thanks+for+visiting!;Keep+coding,+keep+creating!+💙;Let's+build+something+awesome+together!" />
 </p>
+
+
