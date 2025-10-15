@@ -98,8 +98,9 @@
 </div>
 
 <!-- 🔥 Streak -->
+
 <img 
-  src="https://github-readme-streak-stats.herokuapp.com?user=ChubchumITKH&theme=tokyonight&hide_border=true&fire=00FFFF&ring=00FFFF&currStreakLabel=00FFFF&cache_seconds=60"
+  src="https://streak-stats.vercel.app?user=ChubchumITKH&theme=tokyonight&hide_border=true&fire=00FFFF&ring=00FFFF&currStreakLabel=00FFFF&background=0d1117"
   height="180"
   alt="GitHub Streak"
 />
@@ -110,7 +111,6 @@
   width="100%" 
   alt="Contribution Graph"
 />
-
 
 
 ---
